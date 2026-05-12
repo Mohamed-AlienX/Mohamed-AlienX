@@ -76,10 +76,11 @@ I'm a Jr penetration tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 
 ###
 
-## 🛠️ Skills & Tools
+ <h3 align="left">🛠️ Skills & Tools</h3>
 
+###
 
-
+<p align="left">
 | Category | Tools & Technologies |
 
 |----------|---------------------|
@@ -95,8 +96,7 @@ I'm a Jr penetration tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 | Scripting & Automation | Python, Bash, PowerShell |
 
 | Environment | Linux, Docker, Git |
-
-
+</p>
 
 ---
 
