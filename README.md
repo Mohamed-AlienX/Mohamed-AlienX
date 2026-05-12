@@ -48,8 +48,10 @@ I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 ###
 
 <p align="left">
-  <code>XSS</code> &nbsp; <code>SQL Injection</code> &nbsp; <code>IDOR</code> &nbsp; <code>SSRF</code> &nbsp; <code>XXE</code> &nbsp; <code>SSTI</code> &nbsp; <code>JWT Attacks</code><br><br>
-  <code>Business Logic</code> &nbsp; <code>CSRF</code> &nbsp; <code>DOM-based Vulns</code> &nbsp; <code>CSP Bypass</code> &nbsp; <code>Subdomain Takeover</code> &nbsp; <code>Auth Bypass</code>
+ <p align="left">
+  XSS &nbsp;|&nbsp; SQL Injection &nbsp;|&nbsp; IDOR &nbsp;|&nbsp; SSRF &nbsp;|&nbsp; XXE &nbsp;|&nbsp; SSTI &nbsp;|&nbsp; JWT Attacks<br>
+  Business Logic &nbsp;|&nbsp; CSRF &nbsp;|&nbsp; DOM-based Vulns &nbsp;|&nbsp; CSP Bypass &nbsp;|&nbsp; Auth Bypass |&nbsp; Subdomain Takeover
+</p>
 </p>
 
 ###
@@ -89,7 +91,7 @@ I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 | **Scanning & Fuzzing** | Nmap, Naabu, Nuclei, ffuf, Gobuster, Nikto |
 | **Exploitation** | Metasploit, SQLMap, Custom Python Scripts, Netcat |
 | **Scripting & Automation** | Python, Bash, PowerShell |
-| **Environment** | Linux, Docker, Git&Github |
+| **Environment** | Linux, Docker, Git |
 
 ###
 
