@@ -76,6 +76,29 @@ I'm a Jr penetration tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 
 ###
 
+## 🛠️ Skills & Tools
+
+
+
+| Category | Tools & Technologies |
+
+|----------|---------------------|
+
+| Web Pentesting | Burp Suite , OWASP ZAP, Postman, JWT Tool |
+
+| Recon & OSINT | Subfinder, Amass, dnsx, httpx, gowitness, waybackurls |
+
+| Scanning & Fuzzing | Nmap, Naabu, Nuclei, ffuf, Gobuster |
+
+| Exploitation | Metasploit, SQLMap, Custom Python Scripts |
+
+| Scripting & Automation | Python, Bash, PowerShell |
+
+| Environment | Linux, Docker, Git |
+
+
+
+---
 
 ###
 
