@@ -80,15 +80,6 @@ I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 
 ###
 
-```diff
-+ API Security Testing (GraphQL, OAuth, JWT)
-+ Advanced Recon Automation with error handling & logging
-+ OSCP Preparation & Active Directory fundamentals
-+ Writing clean, reproducible bug bounty reports
-```
-
-###
-
 <h3 align="left">📜 Certifications</h3>
 
 ###
