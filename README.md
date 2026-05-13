@@ -38,7 +38,7 @@ I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 - 🛡️ Specializing in <b>Web Application Security</b> & <b>Penetration Testing</b><br>
 - 📚 Currently learning: <b>API Security</b> & advancing toward <b>OSCP</b><br>
 - ⚙️ In my free time: Building <b>recon automation tools</b> in Bash & Python<br>
-- 🎯 Goal: Land a role as Penetration Tester | AppSec Engineer | Bug Bounty Hunter
+- 🎯 Goal: Land a role as Penetration Tester | Vulnerability Assessment | Security Analysis
 </p>
 
 ###
