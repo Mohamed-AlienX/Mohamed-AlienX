@@ -34,12 +34,12 @@
 
 <p align="left">
 I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
-- 🔭 Currently hunting vulnerabilities on <b>HackerOne</b>, <b>Bugcrowd</b> & <b>Intigriti</b>
-- 🛡️  Focused on Vulnerability Assessment, Penetration Testing, Web & API Security.
-- 🧪 Get hands-on experience by taking part in security labs, CTFs, vulnerability research, and security automation.
-- 📚 At the moment, I am going deeper into my understanding of <b>API Security</b> & <b>Active Directory</b>
-- ⚙️ Building tools to automate reconnaissance and security testing workflows.
-- 🎯 Looking for opportunities in the role of a Junior VAPT Analyst, Penetration Tester or Security Analyst
+- 🔭 Currently hunting vulnerabilities on <b>HackerOne</b>, <b>Bugcrowd</b> & <b>Intigriti</b><br>
+- 🛡️  Focused on Vulnerability Assessment, Penetration Testing, Web & API Security.<br>
+- 🧪 Get hands-on experience by taking part in security labs, CTFs, vulnerability research, and security automation.<br>
+- 📚 At the moment, I am going deeper into my understanding of <b>API Security</b> & <b>Active Directory</b>.<br>
+- ⚙️ Building tools to automate reconnaissance and security testing workflows.<br>
+- 🎯 Looking for opportunities in the role of a Junior VAPT Analyst, Penetration Tester or Security Analyst.<br>
 </p>
 
 ###
@@ -62,12 +62,12 @@ I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
 ###
 
 <p align="left">
-🔎 ReconX Framework
-Automated reconnaissance pipeline for penetration testing and security research.
-🌐 DNS Enumeration Tool
-Tool for DNS enumeration and reconnaissance automation.
-📚 Web Vulnerability Cheat Sheets
-Practical security notes and references for web application vulnerabilities.
+🔎 ReconX Framework<br>
+Automated reconnaissance pipeline for penetration testing and security research.<br>
+🌐 DNS Enumeration Tool<br>
+Tool for DNS enumeration and reconnaissance automation.<br>
+📚 Web Vulnerability Cheat Sheets<br>
+Practical security notes and references for web application vulnerabilities.<br>
 </p>
 
 ###
