@@ -34,7 +34,7 @@
 
 <p align="left">
 I'm a Jr Penetration Tester & Bug Bounty Hunter from Egypt 🇪🇬<br><br>
-- 🔭 Currently hunting vulnerabilities on <b>HackerOne</b>, <b>Bugcrowd</b> & <b>Intigriti</b><br>
+- 🔭 Currently hunting vulnerabilities on <b>HackerOne</b>, <b>Bugcrowd</b> & <b>Intigriti</b>
 - 🛡️  Focused on Vulnerability Assessment, Penetration Testing, Web & API Security.
 - 🧪 Get hands-on experience by taking part in security labs, CTFs, vulnerability research, and security automation.
 - 📚 At the moment, I am going deeper into my understanding of <b>API Security</b> & <b>Active Directory</b>
