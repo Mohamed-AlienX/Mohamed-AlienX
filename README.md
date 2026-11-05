@@ -122,7 +122,4 @@ Practical security notes and references for web application vulnerabilities.<br>
   <a href="mailto:z9mohamed74@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[[https://tryhackme.com/p/YOUR_THM_USERNAME]](https://tryhackme.com/p/AlienX2022)" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
 </p>
