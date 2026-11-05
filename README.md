@@ -125,7 +125,4 @@ Practical security notes and references for web application vulnerabilities.<br>
   <a href="[[https://tryhackme.com/p/YOUR_THM_USERNAME]](https://tryhackme.com/p/AlienX2022)" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="[[https://app.hackthebox.com/p/YOUR_THM_USERNAME]](https://app.hackthebox.com/p/AlienX2022)" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-212C42?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox" />
-  </a>
 </p>
